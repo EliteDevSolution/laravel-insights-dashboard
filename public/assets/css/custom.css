@@ -1,0 +1,23 @@
+label.error {
+    color:red;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #7e57c2;
+}
+.select2-selection__choice__remove {
+    color: #fffafd !important;
+}
+.mt-6
+{
+    margin-top: 10rem !important;
+}
+.badge
+{
+    font-size: 0.8rem;
+    font-weight: 100;
+}
+.require_error
+{
+    color: #e6334d;
+    font-weight: 500;
+}
